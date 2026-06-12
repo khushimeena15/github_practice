@@ -1,2 +1,4 @@
 # github_practice
-My first github repository.
+My first Github repository.
+Hello, i am Khushi.
+This is my first Github repository.
